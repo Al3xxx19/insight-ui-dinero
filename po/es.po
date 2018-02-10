@@ -25,7 +25,7 @@ msgid ""
 "<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" target="
 "\"_blank\">open-source Dinero blockchain explorer</a> with complete REST "
 "and websocket APIs that can be used for writing web wallets and other apps  "
-"that need more advanced blockchain queries than provided by dinerodd RPC.  "
+"that need more advanced blockchain queries than provided by dinerod RPC.  "
 "Check out the <a href=\"https://github.com/dinerocoin/insight-ui-dinero\" target=\"_blank"
 "\">source code</a>."
 msgstr ""
@@ -90,11 +90,11 @@ msgstr "Bytes Serializados"
 
 #: public/views/includes/connection.html
 msgid ""
-"Can't connect to dinerodd to get live updates from the p2p network. (Tried "
-"connecting to dinerodd at {{host}}:{{port}} and failed.)"
+"Can't connect to dinerod to get live updates from the p2p network. (Tried "
+"connecting to dinerod at {{host}}:{{port}} and failed.)"
 msgstr ""
-"No se pudo conectar a dinerodd para obtener actualizaciones en vivo de la "
-"red p2p. (Se intentó conectar a dinerodd de {{host}}:{{port}} y falló.)"
+"No se pudo conectar a dinerod para obtener actualizaciones en vivo de la "
+"red p2p. (Se intentó conectar a dinerod de {{host}}:{{port}} y falló.)"
 
 #: public/views/includes/connection.html
 msgid "Can't connect to insight server. Attempting to reconnect..."
@@ -195,8 +195,8 @@ msgid "Last Block"
 msgstr "Último Bloque"
 
 #: public/views/status.html
-msgid "Last Block Hash (dinerodd)"
-msgstr "Último Bloque Hash (dinerodd)"
+msgid "Last Block Hash (dinerod)"
+msgstr "Último Bloque Hash (dinerod)"
 
 #: public/views/index.html
 msgid "Latest Blocks"
