@@ -723,7 +723,7 @@ a.v_highlight_more {
 
 @media (max-width: 991px) {
   .navbar-form {
-    width: auto;
+    width: 185px;
   }
   .btn-copy {
     display: none;
